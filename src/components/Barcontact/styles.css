@@ -1,0 +1,24 @@
+.ant-carousel .slick-slide {
+  text-align: center;
+  height: 160px;
+  line-height: 16px;
+  overflow: hidden;
+}
+
+.Bar-item img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+.Bar-item a {
+  text-align: center;
+  padding-top: 10px;
+  color: black;
+}
+.Bar-item a:hover {
+  color: #5a2ea6;
+  }
