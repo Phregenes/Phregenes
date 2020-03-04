@@ -13,6 +13,7 @@
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 10px;
+  transition: 0.3s;
 }
 .Bar-item a {
   text-align: center;
@@ -20,5 +21,5 @@
   color: black;
 }
 .Bar-item a:hover {
-  color: #5a2ea6;
+  color: #1b1b1b;
   }

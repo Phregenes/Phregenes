@@ -1,0 +1,33 @@
+div.tres {
+  margin: auto;
+  width: 85%;
+  background-color: #1b1b1b;
+  border-radius: 25px;
+  transition: 0.7s;
+  overflow: hidden;
+}
+
+.tres img{
+  background:transparent;
+  max-width: 600px; 
+  max-height: 400px;
+  height: auto;
+  width: auto;
+  transition: 0.7s;
+}
+div.tres:hover {
+  margin: auto;
+  width: 75%;
+  background-color: #f7eddc;
+  border-radius: 25px black;
+  transition: 0.7s;
+}
+
+.tres img:hover{
+  background:transparent;
+  max-width: 600px; 
+  max-height: 400px;
+  height: auto;
+  width: auto;
+  transition: 0.7s;
+}

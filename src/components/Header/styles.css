@@ -5,17 +5,19 @@
 .menu1 {
   padding: 20px;
   float: left;
-  color: #1c1c1c;
+  color: #1b1b1b;
   list-style:none; 
   font-size: 30px;
   font-family: Pinyon Script;
   text-shadow: 2px 2px silver;
+  position: fixed;
+  background:transparent;
 }
 
 .menu2 {
   padding: 20px;
   float: right;
-  color: #1c1c1c;
+  color: white;
   list-style:none; 
   font-size: 30px;
   font-family: Caladea;
@@ -26,4 +28,15 @@
   height: 40px;
   width: 40px;
 
+}
+.menu1:hover{
+    color: white;
+    text-shadow: 1px 0px 2px black, 
+                   -1px 0px 2px black, 
+                   0px 1px 2px black, 
+                   0px -1px 2px black;
+      font-weight: bold;
+      color: white;
+    cursor: pointer;
+    transition: 0.5s;
 }
