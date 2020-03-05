@@ -1,10 +1,37 @@
+.containerdivision {
+  flex: 1;
+}
+
+.containerdivision ul {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  list-style: none;
+}
+
+@media (max-width: 1300px){
+  .containerdivision ul{
+    grid-template-columns: 1fr;
+  }
+}
+
 .tres {
   margin: auto;
-  width: 85%;
+  width: 94%;
+  min-width: 600px;
   background-color: #1b1b1b;
   border-radius: 25px;
   transition: 0.7s;
   overflow: hidden;
+  margin-bottom: 50px;
+}
+
+.tres:hover {
+  margin: auto;
+  width: 94%;
+  background-color: #f7eddc;
+  border-radius: 25px black;
+  transition: 0.7s;
   margin-bottom: 50px;
 }
 
@@ -16,14 +43,6 @@
   width: auto;
   transition: 0.7s;
 }
-.tres:hover {
-  margin: auto;
-  width: 75%;
-  background-color: #f7eddc;
-  border-radius: 25px black;
-  transition: 0.7s;
-  margin-bottom: 50px;
-}
 
 .tres img:hover{
   background:transparent;
@@ -32,4 +51,14 @@
   height: auto;
   width: auto;
   transition: 0.7s;
+}
+
+.tres.half-width{
+  margin: auto;
+  width: 90%;
+  background-color: #1b1b1b;
+  border-radius: 25px;
+  transition: 0.7s;
+  overflow: hidden;
+  margin-bottom: 50px;
 }

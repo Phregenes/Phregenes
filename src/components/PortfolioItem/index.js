@@ -2,9 +2,9 @@ import React from 'react';
 import celular from '../../assets/img/calular.png';
 
 const PortfolioItem = (props) => {
-
+  console.log(props)
   return (
-    <section class="tres">
+    <section className={`tres ${props.halfWidth}`}>
       {props.children}
     </section>
   );

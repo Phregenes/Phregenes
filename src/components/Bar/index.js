@@ -7,16 +7,27 @@ import celular from '../../assets/img/calular.png';
 
 const Bar = () =>(
   <section>
-    <ul className="ulbar">
+    <div className="container">
       <li className="libar">
         <PortfolioItem>
           <img src={celular} />
         </PortfolioItem>
-        <PortfolioItem>
-          <img src={celular} />
-        </PortfolioItem>
       </li>
-    </ul>
+    </div>
+    <div className="containerdivision">
+      <ul>
+        <li className="libar">
+          <PortfolioItem  halfWidth="half-width">
+            <img src={celular} />
+          </PortfolioItem>
+        </li>
+        <li className="libar">
+          <PortfolioItem  halfWidth="half-width">
+            <img src={celular} />
+          </PortfolioItem>
+        </li>
+      </ul>
+    </div>
   </section>
 
 );
