@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Pinyon+Script&display=swap');
 
-*{margin: 0; padding: 0;}
-
-.menu1 {
+.item-a {
   padding: 20px;
   float: left;
   color: #1b1b1b;
@@ -12,31 +10,3 @@
   text-shadow: 2px 2px silver;
   background:transparent;
 }
-
-.menu2 {
-  padding: 20px;
-  float: right;
-  color: white;
-  list-style:none; 
-  font-size: 30px;
-  font-family: Caladea;
-  text-shadow: 2px 2px silver;
-}
-
-.menu img{
-  height: 40px;
-  width: 40px;
-
-}
-.menu1:hover{
-    color: white;
-    text-shadow: 1px 0px 2px black, 
-                   -1px 0px 2px black, 
-                   0px 1px 2px black, 
-                   0px -1px 2px black;
-      font-weight: bold;
-      color: white;
-    cursor: pointer;
-    transition: 0.5s;
-}
-

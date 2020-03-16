@@ -4,7 +4,7 @@ import './App.css';
 import Header from './components/Header';
 import Main from './components/Main';
 import Barcontact from './components/Barcontact';
-import Bar from './components/Bar';
+import Sidebar from './components/Sibebar';
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
       <Header />
       <Main />
       <Barcontact />
-      <Bar />
+      <Sidebar />
     </div>
   );
 }
