@@ -2,8 +2,11 @@
   margin: 0;
   padding: 0;
 }
+
 .container {
   width: 500px;
+  max-width: 500px;
+  width: 50%;
   margin: 0px auto 0;
 }
 

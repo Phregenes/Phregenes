@@ -5,25 +5,30 @@
   padding:0;
   background:#ccc;
   font-family: 'Roboto Condensed', sans-serif;
-
 }
 
-.barcontact ul {
+.barcontact .container_ul {
   position:absolute;
-  top:50%;
+  top:0;
   left:50%;
   transform:translate(-50%, -50%);
   display:flex;
-  margin:0;
+  margin:5px;
   padding:0;
 } 
 
-.barcontact ul li {
-  list-style:none;
-  margin:0 5px;
+@media screen and (max-width: 780px) {
+  .barcontact .container_ul {
+    display:table-row;
+  }
 }
 
-.barcontact ul li a .fa {
+.barcontact .container_ul .container_li {
+  list-style:none;
+  margin:0 5px; 
+}
+
+.barcontact .container_ul .container_li a .fa {
   font-size: 40px;
   color: #262626;
   line-height:80px;
@@ -31,7 +36,7 @@
   padding-right: 14px;
 }
 
-.barcontact ul li a span {
+.barcontact .container_ul .container_li a span {
   padding:0;
   margin:0;
   position:absolute;
@@ -41,7 +46,7 @@
   transition: .5s;
 }
 
-.barcontact ul li a {
+.barcontact .container_ul .container_li a {
   text-decoration: none;
   display:absolute;
   display:block;
@@ -54,7 +59,8 @@
   transition:.5s;
   box-shadow: -20px 20px 10px rgba(0,0,0,.5);
 }
-.barcontact ul li a:before {
+
+.barcontact .container_ul .container_li a:before {
   content: '';
   position: absolute;
   top:10px;
@@ -65,7 +71,8 @@
   transform: .5s;
   transform: rotate(0deg) skewY(-45deg);
 }
-.barcontact ul li a:after {
+
+.barcontact .container_ul .container_li a:after {
   content: '';
   position: absolute;
   bottom:-20px;
@@ -77,55 +84,63 @@
   transform: rotate(0deg) skewX(-45deg);
 }
 
-.barcontact ul li a:hover {
+.barcontact .container_ul .container_li a:hover {
   transform: rotate(-30deg) skew(25deg) translate(20px,-15px);
   box-shadow: -50px 50px 50px rgba(0,0,0,.5);
 }
 
-.barcontact ul li:hover .fa {
+.barcontact .container_ul .container_li:hover .fa {
   color:#fff;
 }
 
-.barcontact ul li:hover span {
+.barcontact .container_ul .container_li:hover span {
   color:#fff;
 }
 
-.barcontact ul li:hover:nth-child(1) a{
+.barcontact .container_ul .container_li:hover:nth-child(1) a{
   background: #3b5998;
 }
-.barcontact ul li:hover:nth-child(1) a:before{
+
+.barcontact .container_ul .container_li:hover:nth-child(1) a:before{
   background: #365492;
 }
-.barcontact ul li:hover:nth-child(1) a:after{
+
+.barcontact .container_ul .container_li:hover:nth-child(1) a:after{
   background: #4a69ad;
 }
 
-.barcontact ul li:hover:nth-child(2) a{
+.barcontact .container_ul .container_li:hover:nth-child(2) a{
   background: #24292e;
 }
-.barcontact ul li:hover:nth-child(2) a:before{
+
+.barcontact .container_ul .container_li:hover:nth-child(2) a:before{
   background: #1e2226;
 }
-.barcontact ul li:hover:nth-child(2) a:after{
+
+.barcontact .container_ul .container_li:hover:nth-child(2) a:after{
   background: #32393f;
 }
 
-.barcontact ul li:hover:nth-child(3) a{
+.barcontact .container_ul .container_li:hover:nth-child(3) a{
   background: #dd4b39;
 }
-.barcontact ul li:hover:nth-child(3) a:before{
+
+.barcontact .container_ul .container_li:hover:nth-child(3) a:before{
   background: #b33a2b;
 }
-.barcontact ul li:hover:nth-child(3) a:after{
+
+.barcontact .container_ul .container_li:hover:nth-child(3) a:after{
   background: #e66a5a;
 }
 
-.barcontact ul li:hover:nth-child(4) a{
+.barcontact .container_ul .container_li:hover:nth-child(4) a{
   background: #e4405f;
 }
-.barcontact ul li:hover:nth-child(4) a:before{
+
+.barcontact .container_ul .container_li:hover:nth-child(4) a:before{
   background: #d81c3f;
 }
-.barcontact ul li:hover:nth-child(4) a:after{
+
+.barcontact .container_ul .container_li:hover:nth-child(4) a:after{
   background: #e46880;
 }

@@ -1,10 +1,10 @@
 import React from 'react';
 import './styles.css';
 
-import Presentation from '../Presentation';
-import Skills from '../Skills';
-import Flowchart from '../Flowchart';
-import Barcontact from '../Barcontact';
+import Presentation from '../../components/Presentation';
+import Skills from '../../components/Skills';
+import Flowchart from '../../components/Flowchart';
+import Barcontact from '../../components/Barcontact';
 
 const Home = () => 
 

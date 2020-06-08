@@ -2,7 +2,6 @@ import React from 'react';
 import './styles.css';
 
 const Skills = () =>(
-
     <div className="container">
         <ul className="skills">
             <li class="html">HTML</li>
