@@ -1,28 +1,33 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import 'antd/dist/antd.css';
 import './styles.css';
-import { Carousel } from 'antd';
-import github from '../../assets/img/github.png';
-import linkedin from '../../assets/img/linkedin.png';
-import twitter from '../../assets/img/twitter.png';
+
 
 
 const Barcontact = () =>(
-  <Carousel autoplay>
-    <div className="Bar-item">
-      <img src={linkedin} alt="Pedro Regenes" />
-      <a href="https://www.linkedin.com/in/phregenes/">Acessar perfil no Linkedin</a>
-    </div>
-    <div className="Bar-item">
-      <img src={github} alt="Pedro Regenes" />
-      <a href="https://github.com/Phregenes">Acessar perfil no github</a>
-    </div>
-    <div className="Bar-item">
-      <img src={twitter} alt="Pedro Regenes" />
-      <a href="https://www.linkedin.com/in/phregenes/">Acessar perfil no Twitter</a>
-    </div>
-  </Carousel>
+
+  <div className="barcontact">
+  <ul>
+  <li>
+    <a href="#">
+      <i className="fa fa-facebook" aria-hidden="true"></i>
+      <span>•Linkedin</span>
+    </a>
+  </li>
+  <li>
+    <a href="#">
+      <i className="fa fa-google-plus" aria-hidden="true"></i>
+      <span>•GitHub</span>
+    </a>
+  </li>
+  <li>
+    <a href="#">
+      <i class="fa fa-instagram" aria-hidden="true"></i>
+      <span>•Google</span>
+    </a>
+  </li>
+  </ul>
+  </div>
+
 );
   
 export default Barcontact;
