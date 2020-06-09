@@ -33,8 +33,7 @@ body {
 
 .pimg3{
   background-color: black;
-  /* background-image:url('../../assets/img/image3.jpg'); */
-  min-height:400px;
+  min-height:500px;
   opacity: 0.90;
 }
 
@@ -54,7 +53,7 @@ body {
 }
 
 .section-3{
-  background-color:#323a3e;
+  background-color:black;
   color:#ddd;
 }
 
@@ -129,3 +128,19 @@ body {
     background-attachment:scroll;
   }
 }
+
+.box{
+display: flex;
+justify-content: space-between;
+}
+
+.box .box1 .box2 .box3{
+  width: 100px;
+  height: 100px;
+  background: red;
+  }
+
+
+
+
+      

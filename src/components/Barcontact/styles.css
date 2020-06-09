@@ -19,7 +19,13 @@
 
 @media screen and (max-width: 780px) {
   .barcontact .container_ul {
-    display:table-row;
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 780px) {
+  .container_li a{
+    margin-bottom: 40px;
   }
 }
 

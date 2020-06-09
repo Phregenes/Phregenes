@@ -3,8 +3,8 @@ import './styles.css';
 
 import Presentation from '../../components/Presentation';
 import Skills from '../../components/Skills';
-import Flowchart from '../../components/Flowchart';
 import Barcontact from '../../components/Barcontact';
+import History from '../../components/History';
 
 const Home = () => 
 
@@ -31,14 +31,20 @@ const Home = () =>
     <div className="pimg2">
       <div className="ptext">
         <span className="border trans">
-          Caminho das pedras para um Dev Front End 
+        Curiosidades. 
         </span>
       </div>
     </div>
 
     <section className="section section-2">
-      <Flowchart />
+      <div>
+        <History />
+      </div>
     </section>
-  </body>
+
+    <section className="section section-1">
+      <footer>© 2020 Pedro Regenes. Built using React Js.</footer>
+    </section>
+</body>
 
 export default Home;
