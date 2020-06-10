@@ -5,13 +5,17 @@ import Equipe from '../../assets/img/equipe.JPG';
 
 function History() {
   return (
-
-<div className="container_u">
-  <img src={Cubo} className="image"/>
-  <div className="overlay">
-    <div className="text">Hello World</div>
-  </div>
-</div>  
+    
+    <div className="container_u">
+      <div className="container_box">
+        <img src={Cubo} className="image"/>
+        <p className="text">Hello World</p>
+      </div>
+      <div className="container_box">
+        <img src={Cubo} className="image"/>
+        <p className="text">Hello World</p>
+      </div>
+    </div>  
         
   )};
 
