@@ -5,7 +5,7 @@ import Equipe from '../../assets/img/equipe.JPG';
 
 function History() {
   return (
-    <div className="container_card">
+    
       
       <div className="content">
                 
@@ -34,7 +34,6 @@ function History() {
                 
             </div>
     
-    </div>
         
         
   )};
