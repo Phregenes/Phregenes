@@ -11,6 +11,11 @@
   padding-left: 15px;
 }
 
+@media screen and (max-width: 600px) {
+  .Presentation {
+    font-size: 2vw; 
+  }}
+
 h1,h2 {
   font-weight: 200;
   margin: 0.4em 0;
