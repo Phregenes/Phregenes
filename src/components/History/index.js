@@ -9,11 +9,11 @@ function History() {
     <div className="container_u">
       <div className="container_box">
         <img src={Cubo} className="image"/>
-        <p className="text">Hello World</p>
+        <p className="text">Cubo Magico</p>
       </div>
       <div className="container_box">
         <img src={Cubo} className="image"/>
-        <p className="text">Hello World</p>
+        <p className="text">Como sobrevivi 5 anos sem internet.</p>
       </div>
     </div>  
         
