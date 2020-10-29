@@ -8,7 +8,7 @@
 
 Sou Pedro Regenes Dev Front-end amante de cubo mágico e de um bom café sem açucar, atualmente trabalho em projetos pessoais e sonho em poder fazer parte de uma grande equipe.
 
-- 👨🏼‍🎓 Cursando desenvolvimento FullStack, no **SENAI**
+- 👨🏼‍🎓 Cursando desenvolvimento FullStack no **SENAI**.
 - 📚 Estudando atualemente React Ninja com o **Fernando Daciuk**.
 
 <h3 align="left">Languages and Tools:</h3>
