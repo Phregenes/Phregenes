@@ -2,11 +2,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hedenica/)](https://www.linkedin.com/in/phregenes/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hedenica@gmail.com)](mailto:phregenes@gmail.com)
 
-<img align="right" width="350" height="400" src="https://freesvg.org/img/kubiko-rubikas.png">
+<img align="right" width="300" height="300" src="https://freesvg.org/img/kubiko-rubikas.png">
 
 ## Olá, tudo bom?
 
-Sou Desenvolvedor Front-end atualmente trabalhando em projetos pessoais e sonhando em poder fazer parte de uma grande equipe.
+Sou Pedro Regenes Dev Front-end amante de cubo mágico e de um bom café sem açucar, atualmente trabalho em projetos pessoais e sonho em poder fazer parte de uma grande equipe.
 
 - 👨🏼‍🎓 Cursando desenvolvimento FullStack, no **SENAI**
 - 📚 Estudando atualemente React Ninja com o **Fernando Daciuk**.
