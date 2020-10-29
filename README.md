@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hedenica/)](https://www.linkedin.com/in/phregenes/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hedenica@gmail.com)](mailto:phregenes@gmail.com)
 
-<img align="right" width="300" height="300" src="https://freesvg.org/img/kubiko-rubikas.png">
+<img align="right" width="150" height="150" src="https://freesvg.org/img/kubiko-rubikas.png">
 
 ## Olá, tudo bom?
 
