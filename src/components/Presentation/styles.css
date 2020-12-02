@@ -2,13 +2,7 @@
   font-family: 'Raleway', sans-serif;
   font-size: 1.5vw;
   background:transparent;
-  color: white;
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  /* left: 50%; */
-  transform: translate(-50%,);
-  padding-left: 15px;
+  padding-left: 40px;
 }
 
 @media screen and (max-width: 600px) {
@@ -16,12 +10,12 @@
     font-size: 2vw; 
   }}
 
-h1,h2 {
-  font-weight: 200;
-  margin: 0.4em 0;
-}
-h1 { font-size: 3.5em; }
-h2 {
+h1.title,h2.subtitle {
+  font-weight: 100;
   color: white;
-  font-size: 3vw;
+}
+h1.title { font-size: 3em; }
+h2.subtitle {
+  color: white;
+  font-size: 2vw;
 }

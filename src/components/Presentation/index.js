@@ -6,13 +6,13 @@ function Presentation() {
     <div className="Presentation">
       
       <link href="https://fonts.googleapis.com/css?family=Raleway:200,100,400" rel="stylesheet" type="text/css" />
-      <h1>Olá! Sou 
+      <h1 className="title">Olá! Sou 
         <span
           class="txt-rotate"
           data-period="2000"
           data-rotate='[ " Pedro Regenes.", " Dev Front End.", " Paulista.", " Amante de Café." ]'></span>
       </h1>
-      <h2>Como sobrevivi 5 anos sem Internet.</h2>
+      <h2 className="subtitle"> Inspirado em criar experiencias únicas aos usuários .</h2>
     </div>
   );
 }

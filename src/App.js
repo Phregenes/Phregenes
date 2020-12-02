@@ -3,6 +3,7 @@ import { Switch, Route, Link } from 'react-router-dom';
 
 import Home from './pages/Home';
 import About from './pages/About';
+import './styles.css';
 
 
 const App = () => {
@@ -10,9 +11,10 @@ const App = () => {
     <div className="App">
      
        <Switch>
-         <Route exact path="/" component={Home}/>
+         <Route path="/home/about" component={About}/>
          <Route path="/home" component={Home}/>
          <Route path="/about" component={About}/>
+         <Route path="/" component={Home}/>
        </Switch>
      
     </div>
