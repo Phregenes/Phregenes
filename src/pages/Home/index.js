@@ -4,6 +4,7 @@ import './styles.css';
 import NavBar from '../../components/NavBar';
 import Presentation from '../../components/Presentation';
 import Barcontact from '../../components/Barcontact';
+
 import Footer from '../../components/Footer';
 
 import Photo from '../../assets/img/myphoto.jpeg';
@@ -17,7 +18,7 @@ const Home = () =>
       <Presentation />
     </div>
   </div>
-  <div className="block-container">
+  <div className="block-container font">
     <h1>Alguns dos meus trabalhos em progresso</h1>
   </div>
   <div className="block-container">
@@ -26,13 +27,13 @@ const Home = () =>
     <div className="block-works"></div>
   </div> 
   <div className="about-container">
-    <h1 className="color-h1">
+    <h1 className="color-h1 font">
         Sobre mim!
     </h1>
-    <div>
+    <div className="my-img-container">
     <img className="my-img" src={Photo} />
     </div>
-    <p className="about-texttt">
+    <p className="font">
       Front-end Developer com conhecimentos em Html, Css e Javascript.
       Além disso, estou estudando React JS e React Native para aprimorar meus conhecimentos. Buscando sempre um MeetUp ou algum evento relacionado a Front-end para garimpar cada vez mais informações e poder estar junto com a comunidade. 
     </p>
