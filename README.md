@@ -6,3 +6,20 @@
 ## Olá, tudo bom?
 
 Sou Pedro Regenes Dev Front-end amante de cubo mágico e de um bom café, atualmente trabalho na Arcotech criando coisas para internet. 
+
+<p align="center">
+  <a href="https://github.com/silviolleite?tab=repositories">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=phregenes&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/phregenes?tab=repositories">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=phregenes&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
+
