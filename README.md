@@ -3,7 +3,7 @@
 
 ## Olá, tudo bom?
 
-Sou Pedro Regenes Dev Front-end amante de cubo mágico e de um bom café, atualmente trabalho na Arco Educação criando coisas para internet. 
+Sou Pedro Dev Front-end amante de cubo mágico e de um bom café, atualmente trabalho na Arco Educação criando coisas para internet. 
 <p align="center">
   <a href="https://github.com/silviolleite?tab=repositories">
     <img
