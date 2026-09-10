@@ -1,178 +1,56 @@
 <div align="center">
+  <h1>Olá, eu sou o Pedro 👋</h1>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   ██████╗ ███████╗██████╗ ██████╗  ██████╗                 ║
-║   ██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗                 ║
-║   ██████╔╝█████╗  ██║  ██║██████╔╝███████║                 ║
-║   ██╔═══╝ ██╔══╝  ██║  ██║██╔══██╗██╔══██║                 ║
-║   ██║     ███████╗██████╔╝██║  ██║██║  ██║                 ║
-║   ╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝                 ║
-║                                                              ║
-║                  P E D R O   R E G E N E S                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+  <h3>Desenvolvedor Front-End & Product Engineer focado em criar experiências web modernas e escaláveis.</h3>
 
-### `[ SYSTEM ONLINE ]`
+  <p>☕ Amante de café, fã de cubos mágicos e entusiasta de boas práticas de engenharia de software e UI/UX.</p>
 
-```text
-> booting pedro.exe...
-
-[████████████████████████████████] 100%
-
-USER      : Pedro
-ROLE      : Front-End Developer / Product Engineer
-LOCATION  : São Paulo, Brazil
-STATUS    : Building things for the web
-COFFEE    : ████████████████████ 100%
-```
-
+  <p>
+    <a href="https://www.linkedin.com/in/phregenes/">
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+    <a href="mailto:phregenes@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge" />
+    </a>
+    <a href="https://pedroregenes.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/-Portfólio-000000?style=flat-square&logo=Vercel&logoColor=white" alt="Portfolio Badge" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## `C:\> whoami`
-
-> Sou desenvolvedor Front-End e **Product Engineer**, apaixonado por transformar
-> ideias em produtos digitais rápidos, escaláveis e com boas experiências de uso.
-
-Meu foco está na interseção entre **engenharia, produto e UI/UX** — pensando não
-apenas em *como construir*, mas também em **por que construir**.
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  CURRENT MISSION                                            │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  [✓] Build modern web experiences                           │
-│  [✓] Solve real product problems                            │
-│  [✓] Keep interfaces fast & accessible                      │
-│  [✓] Write maintainable code                                │
-│  [✓] Learn something new every day                          │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+### 🚀 Sobre mim
+* 💼 Atuo no desenvolvimento de aplicações web de alta performance, unindo engenharia de software e visão de produto.
+* 🛠️ Experiência sólida com **React, Next.js, TypeScript, Tailwind CSS e arquiteturas modernas**.
+* 📍 Baseado em **São Paulo, Brasil**.
 
 ---
 
-## `C:\> skills --list`
+### 💻 Tecnologias e Ferramentas
 
-### `01 / FRONT-END`
-
-```text
-React.js          ████████████████████
-Next.js           ███████████████████░
-TypeScript        ██████████████████░░
-JavaScript        ████████████████████
-HTML / CSS        ████████████████████
-Tailwind CSS      ███████████████████░
-Styled Components ████████████████░░░░
-```
-
-### `02 / ENGINEERING`
-
-```text
-Architecture      ████████████████░░░░
-Testing           ███████████████░░░░░
-Clean Code        ████████████████░░░░
-SOLID             ██████████████░░░░░░
-REST APIs         █████████████████░░░
-WebSockets        █████████████░░░░░░░
-Micro Frontends   ████████████░░░░░░░░
-```
-
-### `03 / TOOLBOX`
-
-```text
-Git               ████████████████████
-GitHub            ████████████████████
-Docker            ███████████████░░░░░
-Vercel            ███████████████████░
-Supabase          ███████████████░░░░░
-Webpack           ███████████████░░░░░
-```
+| Categoria | Tecnologias |
+|---|---|
+| **Front-End** | React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS, Styled-components |
+| **Arquitetura & Estado** | Micro Frontends, Webpack, State Management, Local/Session Storage |
+| **Qualidade & Testes** | Jest, React Testing Library, Cypress, Clean Code, SOLID |
+| **Ferramentas & DevOps** | Git, GitHub, Docker, Vercel, Supabase, APIs RESTful, WebSockets |
 
 ---
 
-## `C:\> projects`
+### ⚡ Principais Tecnologias
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  > WEB APPLICATIONS                                          │
-│    Modern interfaces focused on performance & usability.     │
-│                                                              │
-│  > PRODUCT ENGINEERING                                       │
-│    Connecting technical decisions with product goals.        │
-│                                                              │
-│  > EXPERIMENTATION                                           │
-│    Testing ideas, measuring results and iterating quickly.   │
-│                                                              │
-│  > AI + WEB                                                  │
-│    Exploring the intersection between AI and products.       │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 ---
 
-## `C:\> currently_learning`
-
-```diff
-+ Product Engineering
-+ AI-powered applications
-+ Software Architecture
-+ Product thinking
-+ Performance
-+ Better developer experience
-```
-
----
-
-## `C:\> outside_work`
-
-```text
-☕  Coffee enthusiast
-🧩  Rubik's cube enjoyer
-📷  Photography
-🌱  Plants & landscaping
-🚲  Bikes
-🎨  UI / UX
-```
-
----
-
-## `C:\> contact`
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║        LET'S BUILD SOMETHING COOL TOGETHER          ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-<a href="https://www.linkedin.com/in/phregenes/">
-<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:phregenes@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://pedroregenes.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
-
-<br><br>
-
-```text
-> connection established.
-> waiting for your message...
-```
-
-</div>
+<p align="center">
+  📫 Vamos conectar? Sinta-se à vontade para entrar em contato através das minhas redes acima!
+</p>
