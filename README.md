@@ -51,11 +51,10 @@
 
 ---
 
-### 📈 Meu Grafico de Contribuições
+### 📊 Minhas Contribuições no GitHub
 
 <div align="center">
-  <!-- Esse componente gera os quadradinhos verdes e estatísticas de commit direto do seu GitHub -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phregenes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phregenes&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
