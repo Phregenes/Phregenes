@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 Principais Tecnologias
+### ⚡ Minhas Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -48,6 +48,15 @@
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
+
+---
+
+### 📈 Meu Grafico de Contribuições
+
+<div align="center">
+  <!-- Esse componente gera os quadradinhos verdes e estatísticas de commit direto do seu GitHub -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phregenes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
