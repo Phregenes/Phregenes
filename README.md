@@ -1,15 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0EA5E9,100:0369A1&height=180&section=header&text=Pedro%20Regenes&fontSize=42&fontAlignY=38&desc=Front-End%20%26%20Product%20Engineer&descAlignY=62&descSize=18&animation=fadeIn&fontColor=F8FAFC" alt="Pedro Regenes" />
+  <h1>Olá, eu sou o Pedro 👋</h1>
+  <h3>Front-End e Product Engineer</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=560&lines=Experiencias+web+modernas+e+escalaveis;React+%7C+Next.js+%7C+TypeScript;Cafe+%2B+cubo+magico+%2B+UI%2FUX" alt="Front-End e Product Engineer" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Ol%C3%A1%2C+eu+sou+o+Pedro+%F0%9F%91%8B;Experi%C3%AAncias+web+modernas+e+escal%C3%A1veis;React+%7C+Next.js+%7C+TypeScript;Caf%C3%A9+%E2%98%95%EF%B8%8F+%2B+cubo+m%C3%A1gico+%F0%9F%A7%A9+%2B+UI%2FUX" alt="Typing animation" />
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://pedroregenes.vercel.app/" target="_blank">
+  <a href="https://pedroregenes.vercel.app/">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-020617?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfólio" />
   </a>
   <a href="https://www.linkedin.com/in/phregenes/">
@@ -24,7 +20,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/gpvc/?username=Phregenes&style=flat-square&color=0ea5e9&label=visitas" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Phregenes&label=visitas&color=0ea5e9&style=flat-square" alt="visitas" />
   <img src="https://img.shields.io/badge/base-S%C3%A3o%20Paulo%2C%20Brasil-0ea5e9?style=flat-square" alt="São Paulo" />
   <img src="https://img.shields.io/badge/foco-Product%20Engineering-0369a1?style=flat-square" alt="Foco" />
 </p>
@@ -68,59 +64,21 @@ Front-end e product engineer: construo interfaces rápidas, acessíveis e com ca
 
 ### ✨ Projetos em destaque
 
-<div align="center">
-  <a href="https://pedroregenes.vercel.app/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phregenes&repo=pedroregenes&theme=transparent&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1&border_radius=12" alt="Portfólio" />
-  </a>
-  <a href="https://github.com/Phregenes/find-product" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phregenes&repo=find-product&theme=transparent&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1&border_radius=12" alt="find-product" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Phregenes/softcut" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phregenes&repo=softcut&theme=transparent&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1&border_radius=12" alt="Softcut" />
-  </a>
-  <a href="https://github.com/Phregenes/VocabularyChallenge" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Phregenes&repo=VocabularyChallenge&theme=transparent&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1&border_radius=12" alt="Vocabulary Challenge" />
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://pedroregenes.vercel.app/">Portfólio</a>
-  ·
-  <a href="https://find-product-blue.vercel.app">Find Product</a>
-  ·
-  <a href="https://softcut-seven.vercel.app">Softcut</a>
-  ·
-  <a href="https://vocabulary-challenge.vercel.app">Vocabulary Challenge</a>
-  ·
-  <a href="https://ritzu.vercel.app">Ritzu</a>
-</p>
+| Projeto | O que é | Demo |
+|---|---|---|
+| [pedroregenes](https://github.com/Phregenes/pedroregenes) | Portfólio / CV em UI retrô | [site](https://pedroregenes.vercel.app/) |
+| [find-product](https://github.com/Phregenes/find-product) | Busca e acompanhamento de produtos | [site](https://find-product-blue.vercel.app) |
+| [softcut](https://github.com/Phregenes/softcut) | Personalização de tábuas em PEAD com preview 3D | [site](https://softcut-seven.vercel.app) |
+| [VocabularyChallenge](https://github.com/Phregenes/VocabularyChallenge) | App React para treinar vocabulário | [site](https://vocabulary-challenge.vercel.app) |
+| [Ritzu](https://github.com/Phregenes/Ritzu) | Produto web | [site](https://ritzu.vercel.app) |
 
 ---
 
 ### 📊 GitHub
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Phregenes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=0EA5E9&text_color=E2E8F0&ring_color=0EA5E9" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Phregenes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=F8FAFC&title_color=0369A1&icon_color=0284C7&text_color=0F172A&ring_color=0284C7" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Phregenes&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=0EA5E9&text_color=E2E8F0&ring_color=0EA5E9" alt="GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Phregenes&layout=compact&hide_border=true&langs_count=6&bg_color=0B1220&title_color=38BDF8&text_color=E2E8F0" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Phregenes&layout=compact&hide_border=true&langs_count=6&bg_color=F8FAFC&title_color=0369A1&text_color=0F172A" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phregenes&layout=compact&hide_border=true&langs_count=6&bg_color=0B1220&title_color=38BDF8&text_color=E2E8F0" alt="Top languages" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Phregenes&hide_border=true&background=0B1220&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&stroke=1E293B" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Phregenes&hide_border=true&background=F8FAFC&ring=0284C7&fire=0369A1&currStreakLabel=0369A1&sideLabels=475569&dates=64748B&stroke=E2E8F0" />
-    <img src="https://streak-stats.demolab.com?user=Phregenes&hide_border=true&background=0B1220&ring=0EA5E9&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&stroke=1E293B" alt="GitHub streak" />
-  </picture>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Phregenes&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=0EA5E9&text_color=E2E8F0&ring_color=0EA5E9" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phregenes&layout=compact&hide_border=true&langs_count=6&bg_color=0B1220&title_color=38BDF8&text_color=E2E8F0" alt="Linguagens" />
 </div>
 
 ---
@@ -131,8 +89,4 @@ Front-end e product engineer: construo interfaces rápidas, acessíveis e com ca
   <a href="mailto:phregenes@gmail.com">
     <img src="https://img.shields.io/badge/Enviar%20e--mail-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,50:0EA5E9,100:020617&height=120&section=footer" alt="" />
 </div>
