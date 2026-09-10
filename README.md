@@ -38,7 +38,7 @@
 
 ---
 
-### ⚡ Minhas Tecnologias
+### ⚡ Principais Tecnologias
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -48,14 +48,6 @@
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
-
----
-
-### 📊 Minhas Contribuições no GitHub
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phregenes&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</div>
 
 ---
 
