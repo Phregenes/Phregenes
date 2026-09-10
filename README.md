@@ -38,37 +38,16 @@ Front-end e product engineer: construo interfaces rápidas, acessíveis e com ca
 
 ---
 
-<div align="center">
-  <h3>💻 Stack</h3>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,supabase,vercel,docker,git,github,jest,cypress,figma&perline=8" alt="Tecnologias" />
-  <br /><br />
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <strong>Front-end</strong><br />
-        React · Next.js · TypeScript<br />
-        HTML5 · CSS3 · Tailwind
-      </td>
-      <td align="center" width="50%">
-        <strong>Arquitetura</strong><br />
-        Micro frontends · Estado<br />
-        REST · WebSockets
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <strong>Qualidade</strong><br />
-        Jest · Testing Library · Cypress<br />
-        Clean Code · SOLID
-      </td>
-      <td align="center" width="50%">
-        <strong>Plataforma</strong><br />
-        Git · GitHub · Docker<br />
-        Vercel · Supabase
-      </td>
-    </tr>
-  </table>
-</div>
+### 💻 Stack
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,supabase,vercel,docker,git,github,jest,cypress,figma&perline=8" alt="Tecnologias" />
+
+| Categoria | Tecnologias |
+|---|---|
+| **Front-end** | React, Next.js, TypeScript, HTML5, CSS3, Tailwind, Styled-components |
+| **Arquitetura** | Micro frontends, estado, APIs REST, WebSockets, Webpack |
+| **Qualidade** | Jest, Testing Library, Cypress, Clean Code, SOLID |
+| **Plataforma** | Git, GitHub, Docker, Vercel, Supabase |
 
 ---
 
@@ -77,9 +56,8 @@ Front-end e product engineer: construo interfaces rápidas, acessíveis e com ca
 | Projeto | O que é | Demo |
 |---|---|---|
 | [pedroregenes](https://github.com/Phregenes/pedroregenes) | Portfólio / CV em UI retrô | [site](https://pedroregenes.vercel.app/) |
-| [find-product](https://github.com/Phregenes/find-product) | Busca e acompanhamento de produtos | [site](https://find-product-blue.vercel.app) |
+| [find-product](https://github.com/Phregenes/find-product) | Busca e acompanhamento de produtos | [www.findproduct.com.br](https://www.findproduct.com.br) |
 | [softcut](https://github.com/Phregenes/softcut) | Personalização de tábuas em PEAD com preview 3D | [site](https://softcut-seven.vercel.app) |
-| [VocabularyChallenge](https://github.com/Phregenes/VocabularyChallenge) | App React para treinar vocabulário | [site](https://vocabulary-challenge.vercel.app) |
 | [Ritzu](https://github.com/Phregenes/Ritzu) | Produto web | [site](https://ritzu.vercel.app) |
 
 ---
