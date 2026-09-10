@@ -38,27 +38,37 @@ Front-end e product engineer: construo interfaces rápidas, acessíveis e com ca
 
 ---
 
-### 💻 Stack
-
-<p align="center">
+<div align="center">
+  <h3>💻 Stack</h3>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,supabase,vercel,docker,git,github,jest,cypress,figma&perline=8" alt="Tecnologias" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
-
-| | |
-|---|---|
-| **Front-end** | React, Next.js, TypeScript, HTML5, CSS3, Tailwind, Styled-components |
-| **Arquitetura** | Micro frontends, estado, APIs REST, WebSockets, Webpack |
-| **Qualidade** | Jest, Testing Library, Cypress, Clean Code, SOLID |
-| **Plataforma** | Git, GitHub, Docker, Vercel, Supabase |
+  <br /><br />
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <strong>Front-end</strong><br />
+        React · Next.js · TypeScript<br />
+        HTML5 · CSS3 · Tailwind
+      </td>
+      <td align="center" width="50%">
+        <strong>Arquitetura</strong><br />
+        Micro frontends · Estado<br />
+        REST · WebSockets
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <strong>Qualidade</strong><br />
+        Jest · Testing Library · Cypress<br />
+        Clean Code · SOLID
+      </td>
+      <td align="center" width="50%">
+        <strong>Plataforma</strong><br />
+        Git · GitHub · Docker<br />
+        Vercel · Supabase
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -71,15 +81,6 @@ Front-end e product engineer: construo interfaces rápidas, acessíveis e com ca
 | [softcut](https://github.com/Phregenes/softcut) | Personalização de tábuas em PEAD com preview 3D | [site](https://softcut-seven.vercel.app) |
 | [VocabularyChallenge](https://github.com/Phregenes/VocabularyChallenge) | App React para treinar vocabulário | [site](https://vocabulary-challenge.vercel.app) |
 | [Ritzu](https://github.com/Phregenes/Ritzu) | Produto web | [site](https://ritzu.vercel.app) |
-
----
-
-### 📊 GitHub
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Phregenes&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=0EA5E9&text_color=E2E8F0&ring_color=0EA5E9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phregenes&layout=compact&hide_border=true&langs_count=6&bg_color=0B1220&title_color=38BDF8&text_color=E2E8F0" alt="Linguagens" />
-</div>
 
 ---
 
